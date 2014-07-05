@@ -40,3 +40,7 @@ node_modules
 app/_scss/bootstrap.css
 app/_scss/main.css
 app/_scss/_grids.css
+
+# ignore Sublime project files #
+*.sublime-*
+.project
